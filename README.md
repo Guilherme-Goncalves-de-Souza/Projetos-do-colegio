@@ -1,2 +1,2 @@
 # Projetos-do-colegio
-Atividades feita no colégio.
+Atividades feita nas matérias do colégio.
