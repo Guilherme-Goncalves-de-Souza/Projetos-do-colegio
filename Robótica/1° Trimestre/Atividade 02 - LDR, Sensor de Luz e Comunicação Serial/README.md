@@ -5,8 +5,8 @@
 5. Imprima na Serial "Bom dia" ou "Boa noite" de acordo com a luminosidade.
 6. Usando 5 LEDs crie um programa que acenda os LEDs de acordo com a luminosidade.
 
-1- LED1 - escuro
-2- LED2 - clareando
-3- LED3 - mais claro
-4- LED4 - mais claro ainda
-5- LED5 - totalmente claro
+LED1 - escuro <br>
+LED2 - clareando <br>
+LED3 - mais claro <br>
+LED4 - mais claro ainda <br>
+LED5 - totalmente claro
