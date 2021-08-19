@@ -4,3 +4,9 @@
 4. Ligue dois LEDs, um quando estiver escuro e outro claro, o ponto de corte é o meio entre o máximo e o mínimo.
 5. Imprima na Serial "Bom dia" ou "Boa noite" de acordo com a luminosidade.
 6. Usando 5 LEDs crie um programa que acenda os LEDs de acordo com a luminosidade.
+
+LED1 - escuro
+LED2 - clareando
+LED3 - mais claro
+LED4 - mais claro ainda
+LED5 - totalmente claro
