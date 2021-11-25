@@ -1,4 +1,9 @@
-# Projetos de robótica do colégio.
+<div>
+  <img width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" />
+  Projetos de robótica do colégio. 
+  <img width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" />
+</div>
+
 Atividades feita na disciplina de robótica no colégio.
 
 Os códigos foram feitos em C++, na plataforma do tinkercad.
