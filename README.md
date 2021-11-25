@@ -1,2 +1,2 @@
-# Projetos-do-colegio
-Atividades feita nas matérias do colégio.
+# Projetos de robótica do colégio.
+Atividades feita na disciplina de robótica no colégio.
