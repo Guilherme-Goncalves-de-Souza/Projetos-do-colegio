@@ -1,0 +1,6 @@
+1. Repita a atividade realizada no vídeo e teste seu circuito.
+2. Insira no display o seu nome e sobrenome na primeira linha e a sua turma na segunda linha, faça isso dentro da função loop();
+3. Modifique a atividade anterior para mostrar seu nome, sobrenome e turma apenas na inicialização do Arduino, aguarde 10 segundos e apague o texto do display, deixando as duas linhas sem texto. Pesquise como fazer isso.
+4. Insira um botão no seu projeto (reveja se necessário a aula de botões), use o mesmo código do  exercício anterior e ao entrar no loop imprima o valor do botão no LCD. Botão não pressionado escreve LOW ou DESLIGADO, botão pressionado HIGH ou LIGADO.
+5. Insira um LED vermelho no exercício anterior (nome, sobrenome e turma aparecem por 10 segundos), após isso o LED deve ligar quando o botão for pressionado e apagar quando o botão for liberado. No Display deve aparecer primeira linha a data de hoje (coloque fixo como um texto) e na segunda linha o estado do LED. LED LIGADO ou LED DESLIGADO.
+6. Ainda usando o código do exercício anterior pesquise como ciar efeitos nos display como scroll, apagar ou piscar o display etc. O display deverá continuar apresentado os dados dos exercícios anteriores alternando os efeitos.
